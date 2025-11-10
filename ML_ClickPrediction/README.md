@@ -8,7 +8,7 @@ The core of this project is a machine learning model that has been trained on th
 
 
 ## Links
-Kaggle Contest: https://www.kaggle.com/c/avazu-ctr-prediction 
+Kaggle Contest: https://www.kaggle.com/c/avazu-ctr-prediction <br>
 Dataset: https://paperswithcode.com/dataset/click-through-rate-prediction-avazu
 
 ## Dataset
